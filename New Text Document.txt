@@ -1,0 +1,6 @@
+192.168.1.9
+
+ Performs a  cronjob in stand-alone mode. 
+Syntax: ant runcronjob [-Dcronjob] [-Dtenant]. 
+Use -Dcronjob to pass a CronJob code, such as -Dcronjob=MyCronJob. 
+Use quotation marks for CronJob codes with spaces, such as -Dcronjob="My Cron Job".
